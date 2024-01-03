@@ -1,2 +1,2 @@
-!/usr/bin/python3
-0x01. Python - if/else, loops, functions
+#!/usr/bin/python3
+Python - if/else, loops, functions
