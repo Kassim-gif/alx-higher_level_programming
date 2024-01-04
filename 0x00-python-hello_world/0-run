@@ -1,2 +1,0 @@
-#!/usr/bin/python3
-exec python3 "$PYFILE"
